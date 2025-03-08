@@ -4,7 +4,7 @@
 
 ---
 
-✨ About Me**  
+✨ **About Me**
 I’m a **data geek** with a passion for turning numbers into stories and insights into action! Whether it’s building dashboards in Power BI, crunching data in Excel, or automating tasks with SQL, I love finding creative ways to solve problems and help businesses grow.  
 
 When I’m not analyzing data, you’ll find me strategizing my next move on the **chessboard** (I’m an intermediate player, always up for a game! ♟️).  
